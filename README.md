@@ -4,13 +4,12 @@
 ### The ones i use;
   - React Icons
   - data fetch
-  - <b>Components</b>
+  - Components
   - import/export,
-  - <b>Props</b>,
-  - <b>useState</b>,
-  - <b>useEffect</b>,
+  - Props,
+  - useState,useEffect,
   - Conditional rendering,
-  - <b>events</b> with React,
+  - events,
   - Destructuring props,
-  - array <b>map</b> method.
+  - arraymap method.
   
